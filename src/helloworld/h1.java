@@ -11,7 +11,7 @@ public class h1 {
 		Eratosthene.Era(N);
 		end = System.currentTimeMillis();
 		System.out.println("TIME = "+(end - start)+"ms");
-		//
+		
 		start = System.currentTimeMillis();
 		Eratosthene.test3(N);
 		end = System.currentTimeMillis();
